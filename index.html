@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Order Summary Card - A responsive web component for displaying order details using HTML and CSS.">
+  <meta name="keywords" content="frontend mentor, order summary card, frontend challenge, HTML, CSS, JavaScript">
+  <meta name="author" content="Ady Zaporojanu">
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Order summary card</title>
+
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/index.css">
+
+</head>
+<body>
+  <div class="order-summary-card">
+    <div class="order-summary-hero">
+      <img src="images/illustration-hero.svg" width="450" height="220" alt="Order summary hero ilustration">
+    </div>
+
+    <div class="order-summary-body">
+      <h1 class="order-summary-title">Order Summary</h1>
+      <p class="order-summary-description">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+      
+        <div class="order-item">
+          <img class="item-image" src="./images/icon-music.svg" width="48" height="48" alt="music icon">
+
+          <div class="item-details">
+            <h2 class="plan-type">Annual Plan</h2>
+            <span class="plan-price">$59.99/year</span>
+          </div>
+
+          <button id="btn-change-plan">Change</button>
+        </div>
+
+        <div class="order-summary-footer">
+          <button id="btn-proceed-payment">Proceed to Payment</button>
+          <a class="cancel-link" href="#" >Cancel Order</a>
+        </div>
+    </div>
+  </div>
+
+  <script src="js/index.js"></script>
+</body>
+</html>

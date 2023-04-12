@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+:root {
+    /* Primary */
+    --pale-blue: hsl(225, 100%, 94%);
+    --bright-blue: hsl(245, 75%, 52%);
+  
+    /* Neutral */
+    --very-pale-blue: hsl(228, 100%, 98%);
+    --desaturated-blue: hsl(224, 23%, 55%);
+    --dark-blue: hsl(223, 47%, 23%);
+
+    /* Other */
+    --white: #FFFFFF;
+}
+
+body {
+    background-image: url(/images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: contain;
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: var(--pale-blue);
+}
+
+body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    min-height: 100vh;
+}
+
+.order-summary-card {
+    border-radius: 16px;
+    background: white;
+    max-width: 28.125rem;
+    -webkit-box-shadow: 0px 15px 30px #C5C1F8;
+            box-shadow: 0px 15px 30px #C5C1F8;
+}
+
+.order-summary-hero img {
+    border-radius: 16px 16px 0 0;
+    max-width: 100%;
+}
+
+.order-summary-title {
+    font-size: 1.75rem;
+    font-weight: 900;
+    color: var(--dark-blue);
+    text-align: center;
+    margin-top: 3.375rem;
+    margin-bottom: 1.563rem;
+}
+
+.order-summary-description {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 26px;
+    color: var(--desaturated-blue);
+    text-align: center;
+    max-width: 90%;
+    margin: 0 auto;
+    margin-bottom: 1.563rem;
+}
+
+.order-item {
+    background: var(--very-pale-blue);
+    max-width: 90%;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border-radius: 10px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.item-image {
+    margin: 25px 20px 25px 25px;
+}
+
+.plan-type {
+    font-size: 1rem;
+    font-weight: 900;
+    color: var(--dark-blue);
+}
+
+.plan-price {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--desaturated-blue);
+}
+
+#btn-change-plan {
+    margin-right: 25px;
+    margin-left: auto;
+    font-weight: 500;
+    font-size: 0.875rem;
+    text-decoration: underline;
+    color: var(--bright-blue);
+    cursor: pointer;
+}
+
+#btn-change-plan:hover {
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.order-summary-footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 2rem;
+    margin-bottom: 3.313rem;
+    gap: 2.25rem;
+}
+
+#btn-proceed-payment {
+    max-width: 90%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 14px 0;
+    font-weight: 900;
+    font-size: 0.9375rem;
+    background: var(--bright-blue);
+    color: var(--pale-blue);
+    border-radius: 8px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 15px 30px #C5C1F8;
+            box-shadow: 0px 15px 30px #C5C1F8;
+}
+
+#btn-proceed-payment:hover {
+    opacity: 0.7;
+}
+
+.cancel-link {
+    margin: 0 auto;
+    font-weight: 700;
+    font-size: 0.9375rem;
+    text-decoration: none;
+    color: var(--desaturated-blue);
+    cursor: pointer;
+}
+
+.cancel-link:hover {
+    color: var(--dark-blue);
+}
+
+@media (max-width: 500px) {
+    body {
+        background-image: url(/images/pattern-background-mobile.svg);
+    }
+
+    .order-summary-card {
+        max-width: 90%;
+    }
+
+    .order-summary-title {
+        font-size: 1.375rem;
+        margin-top: 2.375rem;
+        margin-bottom: 1.563rem;
+    }
+
+    .order-summary-description {
+        font-size: 0.9375rem;
+        max-width: 87%;
+        margin-bottom: 1.75rem;
+    }
+
+    .plan-type,.plan-price {
+        font-size: 0.875rem;
+    }
+
+    .order-summary-footer {
+        margin-top: 1.5rem;
+        margin-bottom: 2.313rem;
+        gap: 1.75rem;
+    }
+
+    #btn-change-plan {
+        font-size: 0.6875rem;
+    }
+}
