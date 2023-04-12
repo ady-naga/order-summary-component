@@ -13,9 +13,9 @@ Table of contents 🗂
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-## Overview
+## Overview 📊
 
-### The challenge
+### The challenge ⚔
 
 Users should be able to:
 
@@ -23,7 +23,7 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshot 🖼
 
 Desktop 🖥
 
@@ -33,7 +33,7 @@ Mobile 📱
 
 ![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Mobile.png)
 
-### Links 🖇
+### Links 🔗
  
 - Solution URL: [Here](https://github.com/ady-naga/order-summary-component)
 - Live Site URL: [Here](https://order-summary-component-ozh4sgut4-ady-naga.vercel.app/)
