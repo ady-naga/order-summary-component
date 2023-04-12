@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/ady-naga/order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/ady-naga/order-summary-component)
+- Live Site URL: [Here](https://order-summary-component-ozh4sgut4-ady-naga.vercel.app/)
 
 ## My process
 
