@@ -1,8 +1,8 @@
-Frontend Mentor - Order summary card solution
+Frontend Mentor - Order summary card solution 💳
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-Table of contents :bookmark_tabs:
+Table of contents 🗂
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -29,24 +29,24 @@ Desktop 🖥
 
 ![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Desktop.png)
 
-Mobile
+Mobile 📱
 
 ![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Mobile.png)
 
-### Links
-
+### Links 🖇
+ 
 - Solution URL: [Here](https://github.com/ady-naga/order-summary-component)
 - Live Site URL: [Here](https://order-summary-component-ozh4sgut4-ady-naga.vercel.app/)
 
 ## My process
 
-### Built with
+### Built with 🔨
 
 - Semantic HTML5 markup
 - CSS custom properties and variables
 - Flexbox
 
-## What I Learned
+## What I Learned 📝
 
 While working on the Order summary card challenge, I had the opportunity to learn the following:
 
@@ -57,7 +57,7 @@ While working on the Order summary card challenge, I had the opportunity to lear
 - Troubleshooting and debugging common frontend issues, such as responsive breakpoints, margin and padding, and CSS specificity.
 - Practicing clean and organized coding techniques, including using proper indentation, naming conventions.
 
-## Author
+## Author 🪧
 
 - Website - on working
 - Frontend Mentor - [@ady-naga](https://www.frontendmentor.io/profile/ady-naga)
