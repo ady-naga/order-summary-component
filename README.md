@@ -2,7 +2,7 @@ Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-Table of contents
+Table of contents :bookmark_tabs:
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
+Desktop 🖥
 
 ![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Desktop.png)
 
