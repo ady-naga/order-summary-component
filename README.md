@@ -27,10 +27,11 @@ Users should be able to:
 
 Desktop
 
-![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Desktop.png?raw=true)
+![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Desktop.png)
 
 Mobile
-![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Mobile.png?raw=true)
+
+![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Mobile.png)
 
 ### Links
 
