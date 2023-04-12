@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-# Desktop
+Desktop
 
-![](./screenshot.jpg)
+![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Desktop.png?raw=true)
 
-# Mobile
-![](./screenshot.jpg)
+Mobile
+![](https://github.com/ady-naga/order-summary-component/blob/main/design/Screen%20Shot%20Mobile.png?raw=true)
 
 ### Links
 
