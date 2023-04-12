@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ady-naga/order-summary-component)
+- Solution URL: [here](https://github.com/ady-naga/order-summary-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
